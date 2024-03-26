@@ -32,3 +32,7 @@ This is the overall csv that resulted from my data curation. I will document the
 ### PersonalGames.csv
 
 An example, 'mini' version of this data set based on my personal collection that I created a few weeks ago. May be useful if I want to compare my games to the top games.
+
+### BGG API.webp
+
+An image of the BGG XML API logo. Added to respect BGG's Terms of Use
