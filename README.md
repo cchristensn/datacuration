@@ -17,6 +17,8 @@ This is the overall csv that resulted from my data curation. I will document the
 
 **Name**: The name of the board game
 
+**Year**: Year the game was published
+
 **ID**: The internal game id within BGG
 
 **Rating**: A weighted average user rating for a board game on a scale from 1-10. There is also an additional 100 random 'default' ratings (with an average of 5.5) to prevent games with a low number of ratings to dominate rankings. Because of this, all games have ratings closer to 5.5 than they should. However, this effect becomes negligable if a game has a lot of ratings.
