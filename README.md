@@ -29,6 +29,12 @@ This is the overall csv that resulted from my data curation. I will document the
 
 **Plays Last Month**: The recorded number of plays in the last month. (Feb 25, 2024 - Mar 25, 2024) Plays are reported by users on BGG.
 
+**Owns**: The number of copies owned by BGG members.
+
+**Wants**: The number of people activly seeking to purchase the game.
+
+**Wishlists**: The number of people who are interested in owning the game.
+
 **Abstract Rank, Customizable Rank, etc.**: The rank of a board game within the category of Abstract, Customizable, Thematic, etc. Only has values through the top 100. Missing values represent games not in the category or games in the category ranked below 100.
 
 ### PersonalGames.csv
